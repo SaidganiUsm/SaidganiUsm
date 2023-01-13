@@ -32,5 +32,3 @@ Hi 👋 My name is Saidgani Usmonov
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/SaidganiUsm"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SaidganiUsm&bg_color=181824&color=a855f7&line=ffffff&point=a855f7&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/SaidganiUsm" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidganiUsm&langs_count=10&title_color=0891b2&text_color=a855f7&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
