@@ -1,4 +1,4 @@
-Hi 👋 My name is Saidgani Usmonov
+Hi 👋 My name is Saidgani
 =================================
 
 * 🌍  I'm based in Tashkent
