@@ -9,6 +9,7 @@ Java Spring Developer and Tech lover.
 * 🌍  I'm based in Tashkent
 * ✉️  You can contact me at [saidgani110@gmail.com](mailto:saidgani110@gmail.com)
 * 🧠  I'm learning Java Spring
+* 🧠  I'm learning C#
 
 ### Skills
 
